@@ -1,5 +1,5 @@
 -- config
-local repoName = "executor-gui"
+local repoName = "executor"
 local repoOwner = "GOOSEBUMPPS"
 -- variables
 local http_request = (syn and syn.request) or (http and http.request) or request or http_request
